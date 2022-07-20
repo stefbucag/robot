@@ -1,0 +1,3 @@
+.vscode
+.virtualenv/
+/robot/__pycache__
